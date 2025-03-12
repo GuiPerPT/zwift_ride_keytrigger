@@ -1,0 +1,18 @@
+{
+    "LEFT_BTN": "left",
+    "UP_BTN": "up",
+    "RIGHT_BTN": "right",
+    "DOWN_BTN": "down",
+    "A_BTN": "a",
+    "B_BTN": "b",
+    "Y_BTN": "y",
+    "Z_BTN": "z",
+    "SHFT_UP_L_BTN": "i",
+    "SHFT_DN_L_BTN": "i",
+    "POWERUP_L_BTN": "space",
+    "ONOFF_L_BTN": "escape",
+    "SHFT_UP_R_BTN": "k",
+    "SHFT_DN_R_BTN": "k",
+    "POWERUP_R_BTN": "p",
+    "ONOFF_R_BTN": "enter"
+}
