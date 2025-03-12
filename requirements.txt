@@ -1,2 +1,2 @@
 bleak==0.22.3
-keyboard=0.13.5
+keyboard==0.13.5
